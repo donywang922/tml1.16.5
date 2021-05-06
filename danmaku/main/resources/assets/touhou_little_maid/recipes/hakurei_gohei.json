@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "type": "minecraft:item_nbt",
+    "item": "touhou_little_maid:hakurei_gohei",
+    "nbt": {
+      "GoheiMode": 0
+    }
+  },
+  "pattern": [
+    "  D",
+    " SP",
+    "S P"
+  ],
+  "key": {
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "stickWood"
+    },
+    "P": {
+      "type": "forge:ore_dict",
+      "ore": "paper"
+    },
+    "D": {
+      "type": "forge:ore_dict",
+      "ore": "gemDiamond"
+    }
+  }
+}

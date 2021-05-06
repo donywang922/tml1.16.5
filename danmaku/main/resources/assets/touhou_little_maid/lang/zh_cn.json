@@ -1,0 +1,31 @@
+{
+  "itemGroup.touhou_little_maid,first": "车万女仆丨主体",
+
+  "item.touhou_little_maid.debug_danmaku": "调试弹幕工具",
+
+  "message.touhou_little_maid.debug_danmaku.type":"当前类型：%s",
+
+  "tooltips.touhou_little_maid.debug_danmaku.desc":"仅用于调试",
+
+  "danmaku_type.touhou_little_maid.pellet":"点弹",
+  "danmaku_type.touhou_little_maid.ball":"小玉",
+  "danmaku_type.touhou_little_maid.orbs":"环玉",
+  "danmaku_type.touhou_little_maid.big_ball":"中玉",
+  "danmaku_type.touhou_little_maid.bubble":"大玉",
+  "danmaku_type.touhou_little_maid.heart":"心弹",
+  "danmaku_type.touhou_little_maid.jellybean":"椭弹",
+  "danmaku_type.touhou_little_maid.amulet":"札弹",
+  "danmaku_type.touhou_little_maid.star":"星弹",
+  "danmaku_type.touhou_little_maid.big_star":"大星弹",
+  "danmaku_type.touhou_little_maid.petal":"米弹",
+  "danmaku_type.touhou_little_maid.knife":"刀弹",
+  "danmaku_type.touhou_little_maid.master_spark":"魔炮",
+  "danmaku_type.touhou_little_maid.bullet":"铳弹",
+  "danmaku_type.touhou_little_maid.kunai":"苦无弹",
+  "danmaku_type.touhou_little_maid.raindrop":"滴弹",
+  "danmaku_type.touhou_little_maid.arrowhead":"鳞弹",
+  "danmaku_type.touhou_little_maid.butterfly":"蝶弹",
+  "danmaku_type.touhou_little_maid.glowey_ball":"光玉"
+
+
+}

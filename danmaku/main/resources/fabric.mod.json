@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "ywsuoyi",
+  "version": "${version}",
+  "name": "Touhoulittlemaid",
+  "authors": [
+    "ywsuoyi"
+  ],
+  "license": "CC0-1.0",
+  "icon": "assets/ywsuoyi/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "bilibili.ywsuoyi.Touhoulittlemaid"
+    ],
+    "client": [
+      "bilibili.ywsuoyi.Client"
+    ]
+  },
+  "mixins": [
+    "ywsuoyi.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.8.4+build.198",
+    "fabric": "*",
+    "minecraft": "1.15.2"
+  }
+}
