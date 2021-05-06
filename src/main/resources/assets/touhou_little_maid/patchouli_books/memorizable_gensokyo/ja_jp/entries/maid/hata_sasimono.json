@@ -1,0 +1,17 @@
+{
+  "sortnum": 5,
+  "name": "旗指物",
+  "icon": "touhou_little_maid:hata_sasimono",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "touhou_little_maid:hata_sasimono",
+      "text": "旗指し物をつけたメイドは他のプレイヤーやメイド、ペットを攻撃します。旗指し物の模様は変更できます。"
+    },
+    {
+      "type": "text",
+      "text": "旗指物を持ってメイドに右クリックすることで、メイドに旗指物を装着させることができます。メイドのGUIに旗指物の模様の設定ができるボタンがあります。$(br2)旗指物の模様を自分でカスタマイズすることもできます。詳細はwikiをご覧ください。"
+    }
+  ]
+}

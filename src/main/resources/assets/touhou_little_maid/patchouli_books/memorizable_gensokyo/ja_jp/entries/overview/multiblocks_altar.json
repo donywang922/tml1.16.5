@@ -1,0 +1,31 @@
+{
+  "sortnum": 4,
+  "name": "祭壇の組み立て",
+  "icon": "minecraft:wool:14",
+  "category": "overview",
+  "pages": [
+    {
+      "type": "text",
+      "text": "祭壇はこのModのクラフトに欠かせないものです。$(br2)祭壇のクラフトのレシピはJEIを使用して得ることができます。クラフトには$(l:overview/power_point)P点$()が必要です。"
+    },
+    {
+      "type": "multiblock",
+      "name": "祭壇",
+      "multiblock_id": "touhou_little_maid:altar",
+      "text": "$(l:overview/gohei_and_danmaku)博霊のお祓い棒$()を使って4層目の中央にある赤い羊毛を右クリックすることで祭壇を建てることができます。"
+    },
+    {
+      "type": "text",
+      "text": "祭壇のオークの柱上部を右クリックするとアイテムを設置できます。手ぶらで右クリックしてアイテムを回収します。$(br2)アイテムがレシピ通りに設置されプレイヤーのP点が足りている時、祭壇はクラフトを開始します。$(br2)P点不足でクラフトが中断された場合、十分なP点が得られてからもう一度右クリックすることでクラフトがまた開始されます。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "touhou_little_maid:textures/book/altar_craft.png"
+      ],
+      "title": "祭壇のクラフト",
+      "border": true,
+      "text": "The craft of spawn lightning, remember all craft is shapeless."
+    }
+  ]
+}

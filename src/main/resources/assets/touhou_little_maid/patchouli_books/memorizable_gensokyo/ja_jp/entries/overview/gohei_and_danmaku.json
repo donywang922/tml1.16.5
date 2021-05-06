@@ -1,0 +1,28 @@
+{
+  "sortnum": 3,
+  "name": "お祓い棒と弾幕",
+  "icon": "touhou_little_maid:hakurei_gohei",
+  "category": "overview",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:hakurei_gohei",
+      "link_recipe": true,
+      "text": "博霊のお祓い棒は弾幕を撃つことができる射程範囲の広い武器であり、近接武器としても使用できます。$(br2)博霊のお祓い棒を持ちながらAltキーを押してスクロールすると、弾幕のスタイルを切り替えることができます。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "touhou_little_maid:hakurei_gohei",
+      "text": "P点が高いほど弾幕のダメージと速度が上昇します。$(br2)お祓い棒は祭壇を建てるための重要なツールです。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "touhou_little_maid:textures/book/shoot_danmaku.png"
+      ],
+      "title": "弾幕を撃つ",
+      "border": true,
+      "text": "お祓い棒を手に持ち弾幕を撃つ"
+    }
+  ]
+}

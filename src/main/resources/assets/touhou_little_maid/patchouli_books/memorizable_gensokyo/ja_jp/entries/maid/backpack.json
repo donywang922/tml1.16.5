@@ -1,0 +1,13 @@
+{
+  "sortnum": 10,
+  "name": "バックパック",
+  "icon": "touhou_little_maid:maid_backpack",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:maid_backpack",
+      "text": "バックパックを使うとメイドのインベントリを拡張することができます。バックパックを持ってメイドに右クリックすることで装着させます。$(br2)カメラを使用してバックパックを外すことができます。シフトを押しながら左クリックして消去します。"
+    }
+  ]
+}

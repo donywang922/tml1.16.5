@@ -1,0 +1,13 @@
+{
+  "sortnum": 18,
+  "name": "Puntos de poder",
+  "icon": "touhou_little_maid:power_point",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:power_point",
+      "text": "Click derecho para arrojarlo $(br2)Puedes encontrar los puntos de poder en forma de objeto en cofres de mazmorras."
+    }
+  ]
+}

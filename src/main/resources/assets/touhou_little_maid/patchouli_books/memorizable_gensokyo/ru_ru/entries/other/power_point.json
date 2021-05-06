@@ -1,0 +1,13 @@
+{
+  "sortnum": 18,
+  "name": "Очки силы",
+  "icon": "touhou_little_maid:power_point",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:power_point",
+      "text": "ПКМ выкидывает, может выбросить частицу очка силы.$(br2)Вы можете найти очко силы как предмет из сундуков в подземельях."
+    }
+  ]
+}

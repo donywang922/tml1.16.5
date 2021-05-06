@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "name": "smart_slab",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "touhou_little_maid:smart_slab"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "random_chance",
+          "chance": 0.025
+        }
+      ]
+    }
+  ]
+}

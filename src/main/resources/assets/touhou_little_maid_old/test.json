@@ -1,0 +1,71 @@
+{
+  "calc": {
+    "v1": {
+      "multi": [
+        "limbSwing",
+        0.67
+      ]
+    },
+    "v2": {
+      "cos": "v1"
+    },
+    "func": {
+      "multi": [
+        "v2",
+        0.3,
+        "limbSwingAmount"
+      ]
+    },
+    "func1": {
+      "multi": [
+        -1,
+        "func1"
+      ]
+    }
+  },
+  "default": {
+    "legLeft": {
+      "setRotate": [
+        "func",
+        0,
+        0
+      ]
+    },
+    "legRight": {
+      "setRotate": [
+        "func1",
+        0,
+        0
+      ]
+    }
+  },
+  "conditions": {
+    "isFarm": {
+      "model.trans": [
+        0,
+        0.0713625,
+        -0.35876875
+      ],
+      "model.rotate": [
+        22.5,
+        1,
+        0,
+        0
+      ],
+      "legLeft": {
+        "Rotate": [
+          -0.3927,
+          0,
+          0
+        ]
+      },
+      "legRight": {
+        "setRotate": [
+          -0.3927,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

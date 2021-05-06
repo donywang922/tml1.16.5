@@ -1,0 +1,13 @@
+{
+  "sortnum": 18,
+  "name": "P点",
+  "icon": "touhou_little_maid:power_point",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:power_point",
+      "text": "右クリックで投げるとP点をドロップします。$(br2)このP点はダンジョンなどの構造物のチェストにあります。"
+    }
+  ]
+}

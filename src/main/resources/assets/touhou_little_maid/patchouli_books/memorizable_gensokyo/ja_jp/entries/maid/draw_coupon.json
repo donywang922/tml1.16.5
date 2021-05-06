@@ -1,0 +1,32 @@
+{
+  "sortnum": 9,
+  "name": "クーポンの入手",
+  "icon": "touhou_little_maid:maid_model_coupon:5",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "text",
+      "text": "メイドのモデルの変更が無効化されている時の対処として新しい変更の方法があります。$(br2)エメラルドまたはガシャポンコインを使用してガシャポンを引き、メイドのモデルを変更できるクーポンをゲットできます。"
+    },
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:gashapon_machines",
+      "text": "エメラルドやガシャポンコインを持って右クリックすると、ガシャポンが出てきます。ガシャポンの中身の確率やレアリティはカスタマイズできます。"
+    },
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:gashapon:4",
+      "text": "右クリックでガシャポンは様々なモデルのメイドモデルクーポンを排出します。ガシャポンにはレアリティがあり、そのレアリティに対応したクーポンが出てきます。$(br2)確率はcsvファイルでカスタマイズできます。詳細についてはwikiを参照してください。"
+    },
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:maid_model_coupon:5",
+      "text": "メイドモデルクーポンを持ってメイドを右クリックすることでモデルを切り替えます。"
+    },
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:gashapon_coin",
+      "text": "霖之助を倒すとガシャポンコインをドロップします。また、メイドモデルクーポンからもガシャポンコインをクラフトできます。"
+    }
+  ]
+}

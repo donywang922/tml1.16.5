@@ -1,0 +1,20 @@
+{
+  "sortnum": 8,
+  "name": "바닐라 수정",
+  "icon": "minecraft:book",
+  "category": "other",
+  "pages": [
+    {
+      "type": "text",
+      "text": "두 바닐라 모델 변경 설정이 컨피그에 추가되었습니다. $(br2)하나는 바닐라 슬라임을 윳쿠라로 바꾸며, 다른 하나는 경험치를 점수 아이템으로 바꿉니다.$(br2)또한 바닐라의 불사의 토템을 잔기 아이템으로 바꿀 수도 있습니다."
+    },
+    {
+      "type": "image",
+      "images": [
+        "touhou_little_maid:textures/book/yukkuri.png"
+      ],
+      "title": "윳쿠리",
+      "border": true
+    }
+  ]
+}

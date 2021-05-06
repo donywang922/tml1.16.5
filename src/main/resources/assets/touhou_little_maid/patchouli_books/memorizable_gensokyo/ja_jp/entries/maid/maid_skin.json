@@ -1,0 +1,28 @@
+{
+  "sortnum": 3,
+  "name": "スキン",
+  "icon": "touhou_little_maid:garage_kit{ModelId:'touhou_little_maid:komeiji_koishi'}",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "text",
+      "text": "メイドのスキンはカスタマイズすることが可能です。ゲーム内でメイドのスキンを簡単に変更できます。$(br2)サードパーティ製のリソースパックを追加して、メイドのスキンを追加すこともできます。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "touhou_little_maid:textures/book/change_skin.png"
+      ],
+      "title": "スキン変更ボタン",
+      "border": true
+    },
+    {
+      "type": "text",
+      "text": "メイドのGUIの下にリソースパックのダウンロードに関するGUIを開くボタンがあります。$(br2)他のプレイヤーが作成したメイドのリソースパックをダウンロードできます。"
+    },
+    {
+      "type": "text",
+      "text": "$(l:https://blockbench.net/)Blockbench$(/l)のソフトを使用して、簡単に自分自身のメイドのリソースパックを作成することができます。$(br2)メイドのモデルはver.1.10.0のbedrock editionと互換性があります。$(br2)メイドのモデルのカスタムの詳細についてはwikiをご覧ください。"
+    }
+  ]
+}

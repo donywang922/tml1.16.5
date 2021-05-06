@@ -1,0 +1,26 @@
+{
+  "sortnum": 3,
+  "name": "魔理沙のホウキ",
+  "icon": "touhou_little_maid:marisa_broom",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:marisa_broom",
+      "text": "ホウキは右クリックして乗ることができ、AWSDキーを使用して空を自由自在に飛ぶことができます。$(br2)メイドも近くのホウキに乗って、空を飛びます。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "touhou_little_maid:textures/book/broom.png"
+      ],
+      "title": "魔理沙のホウキ",
+      "border": true,
+      "text": "メイドがホウキに乗っている姿"
+    },
+    {
+      "type": "text",
+      "text": "デフォルトの設定ではクリエイティブモードの時しかホウキに乗れないようになっています。コンフィグから設定を変更することが可能です。"
+    }
+  ]
+}

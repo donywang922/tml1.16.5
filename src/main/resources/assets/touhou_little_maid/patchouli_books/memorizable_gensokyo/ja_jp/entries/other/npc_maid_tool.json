@@ -1,0 +1,13 @@
+{
+  "sortnum": 10,
+  "name": "NPCメイドツール",
+  "icon": "touhou_little_maid:npc_maid_tool",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:npc_maid_tool",
+      "text": "NPCメイドツールはCustom NPCs modと互換性があるツールです。$(br2)NPCのモデルに東方リトルメイドが設定されている場合、NPCにこのアイテムを使用するとメイドのモデルに設定できます。"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "sortnum": 8,
+  "name": "身代わり地蔵",
+  "icon": "touhou_little_maid:substitute_jizo",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:substitute_jizo",
+      "text": "身代わり地蔵をもってメイドを右クリックするとそのメイドを無敵にすることができます。クリエイティブモード限定のアイテムです。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "sortnum": 1,
+  "name": "ワールドの生成",
+  "icon": "minecraft:spawn_egg{EntityTag:{id:'touhou_little_maid:entity.passive.maid'}}",
+  "category": "overview",
+  "pages": [
+    {
+      "type": "text",
+      "text": "このModはモブを追加します。$(br2)ドロップアイテムは貴重なクラフトの素材となります。$(br2)Modにより追加された敵対的なモブはコンフィグによりスポーンの確率を変更できます。値を0に設定した場合、スポーンしなくなります。"
+    },
+    {
+      "type": "entity",
+      "entity": "touhou_little_maid:entity.monster.fairy{OnGround:true}",
+      "offset": 0.125,
+      "text": "夜に平原にスポーンし、飛ぶと同時に弾幕を撃ちプレイヤーやメイドを攻撃します。",
+      "anchor": "fairy"
+    },
+    {
+      "type": "entity",
+      "entity": "touhou_little_maid:entity.monster.rinnosuke",
+      "offset": 0.125,
+      "text": "夜に森林バイオームにスポーンし、プレイヤーやメイドを攻撃します。",
+      "anchor": "rinnosuke"
+    }
+  ]
+}

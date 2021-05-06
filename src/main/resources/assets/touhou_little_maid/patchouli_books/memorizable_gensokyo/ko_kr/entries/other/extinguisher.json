@@ -1,0 +1,13 @@
+{
+  "sortnum": 17,
+  "name": "소화기",
+  "icon": "touhou_little_maid:extinguisher",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:extinguisher",
+      "text": "메이드의 소화 모드로 사용된 아이템은 플레이어가 사용할 수 없습니다."
+    }
+  ]
+}
